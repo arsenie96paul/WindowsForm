@@ -1,0 +1,5 @@
+E:\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.dll
+E:\Assignment_StudentVersion\AssignmentInterfaces\bin\Debug\AssignmentInterfaces.pdb
+E:\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.csprojResolveAssemblyReference.cache
+E:\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.dll
+E:\Assignment_StudentVersion\AssignmentInterfaces\obj\Debug\AssignmentInterfaces.pdb

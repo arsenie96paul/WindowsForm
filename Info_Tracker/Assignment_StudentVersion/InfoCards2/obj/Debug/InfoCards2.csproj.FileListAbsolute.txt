@@ -1,0 +1,8 @@
+E:\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards2.dll
+E:\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards2.pdb
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.csprojResolveAssemblyReference.cache
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.CreditCardForm.resources
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\Assignment.StudentCardForm.resources
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.csproj.GenerateResource.Cache
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.dll
+E:\Assignment_StudentVersion\InfoCards2\obj\Debug\InfoCards2.pdb

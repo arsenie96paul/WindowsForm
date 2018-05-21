@@ -1,0 +1,2 @@
+Credit Card|Paul|123412341234|01|08|05|12|Paul Arsenie|123
+Student Card|Paul-Ionut Arsenie|100369891|12|12|12|19|Pi9758343

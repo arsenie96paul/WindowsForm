@@ -1,0 +1,28 @@
+E:\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards1.dll
+E:\Assignment_StudentVersion\Assignment\bin\Debug\InfoCardsSupplied.dll
+E:\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.exe.config
+E:\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.exe
+E:\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.pdb
+E:\Assignment_StudentVersion\Assignment\bin\Debug\AssignmentInterfaces.dll
+E:\Assignment_StudentVersion\Assignment\bin\Debug\AssignmentInterfaces.pdb
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.NewCard.resources
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.exe
+E:\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.exe
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.pdb
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\InfoCards1.dll
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\InfoCardsSupplied.dll
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.exe
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\AssignmentInterfaces.dll
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\bin\Debug\AssignmentInterfaces.pdb
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.InfoCardsForm.resources
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.NewCard.resources
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\Paul\Desktop\Arsenie Paul Coursework\Assignment_StudentVersion\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
